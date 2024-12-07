@@ -4,7 +4,7 @@ from keras import models
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-model = models.load_model('testmeomeo.keras')
+model = models.load_model('catYesNo\meomeo.keras')
 
 cam = cv2.VideoCapture(0)
 while True:
