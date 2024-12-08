@@ -1,4 +1,9 @@
 *\.ipynb_checkpoints
+*\runs
+*\test
+*\train
+*\valid
 
 yolo11n.pt
 haarcascade_frontalface_default.xml
+
