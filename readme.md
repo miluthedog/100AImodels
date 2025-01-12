@@ -1,4 +1,4 @@
-# Filename: "name" + Training method
-- Classification: tf keras neural network - sigmoid layer, binary_crossentropy loss
-
-- YOLO: ultralytics - label and YOLO()
+# Table of contents
+- catClassification: detect Pho
+  - tf.keras: sigmoid layer, binary_crossentropy loss classifies
+- factdetectYOLO: detect Pha
